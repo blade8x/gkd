@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Oxygen\n"
 "POT-Creation-Date: 2016-11-07 23:06+0700\n"
-"PO-Revision-Date: 2016-11-08 10:13+0700\n"
+"PO-Revision-Date: 2016-12-01 22:24+0700\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2458,7 +2458,7 @@ msgstr "Hết hàng"
 #: woocommerce/loop/quick-view.php:86 woocommerce/loop/sale-flash.php:47
 #: woocommerce/single-product/sale-flash.php:40
 msgid "Sale"
-msgstr ""
+msgstr "Giảm Giá"
 
 #: woocommerce/loop/quick-view.php:92 woocommerce/loop/sale-flash.php:22
 #: woocommerce/single-product/sale-flash.php:20
