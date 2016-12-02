@@ -15653,6 +15653,11 @@ fieldset[disabled] .comment-respond input#submit {
 .laborator-woocommerce .product-single .product-left-info .ribbon.product-featured .featured {
   font-size: 19px;
 }
+.laborator-woocommerce .product-single .product-left-info .ribbon .onsale {
+  font-size: 19px;
+  position: relative;
+  right: 10px;
+}
 .laborator-woocommerce .product-single .product-left-info .ribbon:after {
   position: absolute;
   right: -7px;
