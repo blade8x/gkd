@@ -8887,6 +8887,13 @@ textarea.has-errors {
 .shop .items .item-wrapper .item .sale_tag.product-featured .ribbon .ribbon-content span {
   font-size: 13px;
 }
+.shop .items .item-wrapper .item .sale_tag .ribbon {
+  padding-top: 45px;
+  padding-bottom: 25px;
+}
+.shop .items .item-wrapper .item .sale_tag .ribbon .ribbon-content span {
+  font-size: 13px;
+}
 .shop .items .item-wrapper .item .sale_tag.stock-out .ribbon {
   padding-top: 60px;
   padding-bottom: 20px;
