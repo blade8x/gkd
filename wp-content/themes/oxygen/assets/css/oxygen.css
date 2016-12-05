@@ -9761,12 +9761,17 @@ fieldset[disabled] .shop#yith-wcwl-form .shop_table tbody tr td.product-add-to-c
 .shop table.customer_details {
   width: 100%;
 }
+@media screen and (min-width: 768px) {  
+  .laborator-woocommerce .items .product:nth-child(5n + 6) {
+      clear: left;      
+  }
+}
 @media screen and (max-width: 480px) {
   .shop .items-env .product.col-xs-6 {
     width: 50%;
   }
-  .laborator-woocommerce .items .product:nth-child(2n+2) {
-      clear: left;
+  .laborator-woocommerce .items .product:nth-child(2n+3) {
+      clear: left;      
   }
 }
 .widget {
