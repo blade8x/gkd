@@ -9773,6 +9773,9 @@ fieldset[disabled] .shop#yith-wcwl-form .shop_table tbody tr td.product-add-to-c
   .laborator-woocommerce .items .product:nth-child(2n+3) {
       clear: left;      
   }
+  lab_wpb_blog_posts .blog-posts .col:nth-child(2n+3){
+      clear: left; 
+  }
 }
 .widget {
   margin: 0px 0px 20px 0;

@@ -118,7 +118,7 @@ class WPBakeryShortCode_laborator_blog_posts extends  WPBakeryShortCode
 					<?php
 
 					if( ! $carousel_enabled)
-						echo $i % $row_clear == 0 ? '<div class="clear"></div>' : '';
+						//echo $i % $row_clear == 0 ? '<div class="clear"></div>' : '';
 
 					$i++;
 
