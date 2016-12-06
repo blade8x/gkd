@@ -68,7 +68,7 @@ get_header( 'shop' ); ?>
 
 					<?php
 					# start: modified by Arlind Nushi
-					echo $i % SHOPCOLUMNS == 0 ? '<div class="clear"></div>' : '';
+					//echo $i % SHOPCOLUMNS == 0 ? '<div class="clear"></div>' : '';
 					# end: modified by Arlind Nushi
 					?>
 					

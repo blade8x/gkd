@@ -9762,7 +9762,7 @@ fieldset[disabled] .shop#yith-wcwl-form .shop_table tbody tr td.product-add-to-c
   width: 100%;
 }
 @media screen and (min-width: 768px) {  
-  .laborator-woocommerce .items .product:nth-child(5n + 6) {
+  .laborator-woocommerce .items .product:nth-child(4n + 5) {
       clear: left;      
   }
 }
