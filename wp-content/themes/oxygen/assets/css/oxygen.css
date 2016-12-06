@@ -9762,8 +9762,11 @@ fieldset[disabled] .shop#yith-wcwl-form .shop_table tbody tr td.product-add-to-c
   width: 100%;
 }
 @media screen and (min-width: 768px) {  
-  .laborator-woocommerce .items .product:nth-child(4n + 5) {
+  .laborator-woocommerce .items .product:nth-child(4n+5) {
       clear: left;      
+  }
+  .lab_wpb_blog_posts .blog-posts .col:nth-child(4n+5){
+      clear: left; 
   }
 }
 @media screen and (max-width: 480px) {
@@ -9773,7 +9776,7 @@ fieldset[disabled] .shop#yith-wcwl-form .shop_table tbody tr td.product-add-to-c
   .laborator-woocommerce .items .product:nth-child(2n+3) {
       clear: left;      
   }
-  lab_wpb_blog_posts .blog-posts .col:nth-child(2n+3){
+  .lab_wpb_blog_posts .blog-posts .col:nth-child(2n+3){
       clear: left; 
   }
 }
